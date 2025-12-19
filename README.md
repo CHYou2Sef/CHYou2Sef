@@ -96,7 +96,6 @@
         <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHYou2Sef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
       </td>
-      
       <td valign="top" width="50%" align="center">
         <p align="center"><b>SECURITY CLEARANCE</b></p>
         <a href="https://hackthebox.com">
