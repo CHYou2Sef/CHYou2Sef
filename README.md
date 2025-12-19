@@ -106,8 +106,7 @@
 </div>
 
 <h3 align="center">🐍 CONTRIBUTION GRID SYSTEM</h3>
-<div align="center">
-  <img src="https://github.com/CHYou2Sef/CHYou2Sef/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<div align="center"><img src="https://github.com/CHYou2Sef/CHYou2Sef/blob/output/github-contribution-grid-snake-cosmos.svg" alt="Snake Animation" />
 </div>
 
 <br />
