@@ -71,7 +71,9 @@
 
 <br />
 
+<div>
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=DEV%20LOG&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Professional%20Development&descAlign=50&descSize=15)
+</div>
 
 <div align="center">
   <table border="0">
