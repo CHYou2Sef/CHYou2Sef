@@ -37,7 +37,7 @@
   </a>
 </div>
 <br />
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=MISSION%20BRIEFING&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Overview&descAlign=50&descSize=15)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=MISSION%20BRIEFING&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Overview&descAlign=50&descSize=15"/>
 
 <h3 align="center">🚀 PROJECT CONSTELLATIONS</h3>
 <table align="center">
@@ -72,7 +72,7 @@
 <br />
 
 <div>
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=DEV%20LOG&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Professional%20Development&descAlign=50&descSize=15)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=DEV%20LOG&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Professional%20Development&descAlign=50&descSize=15"/>
 </div>
 
 <div align="center">
