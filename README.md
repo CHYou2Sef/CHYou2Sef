@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://i.pinimg.com/originals/34/08/9b/34089b6c08665ba186358c8942006709.gif" width="100%" height="250px" style="object-fit: cover;" alt="Engineering Banner">
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" alt="Space Line" />
   
   <h1 align="center">
@@ -10,7 +14,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=System+Online:+Software+Engineer+%7C+AI+Architect;Mission:+Securing+IoT+Constellations;Deploying+90%25+Accuracy+Vision+Models;Status:+Ready+for+Capstone+(PFE)." alt="Typing SVG" />
   </a>
 
-  <br/> 
+  <br /> 
 
   <p>
     <img src="https://img.shields.io/badge/Age-25-00F7FF?style=flat-square&logo=uikit&logoColor=black" alt="Age" />
@@ -62,8 +66,15 @@ I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICartha
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
 
 <br>
@@ -118,14 +129,16 @@ I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICartha
 
 <br>
 <details>
-  <summary><b>Click to Reveal Trophies & Live Map</b></summary>
+  <summary><b>🏆 BONUS: Click to Reveal Trophies & Certs</b></summary>
   <div align="center">
     <br>
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco-PCAP%20Python-1BA0D7?style=flat-square&logo=cisco" />
+    <img src="https://img.shields.io/badge/HiveMQ-MQTT%20Associate-E31E24?style=flat-square&logo=hivemq" />
+    <br><br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=CHYou2Sef&theme=darkhub&column=7&no-frame=true&no-bg=true">
     </a>
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHYou2Sef&theme=tokyonight&hide_border=true&background=0D1117" />
   </div>
 </details>
 
@@ -137,12 +150,22 @@ I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICartha
   <p>Ready to collaborate?</p>
   
   <a href="mailto:youssef.chebl@enicar.ucar.tn">
-    <img src="https://img.shields.io/badge/Send_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-youssef.chebl-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://linkedin.com/in/youssef-chebl-in">
-    <img src="https://img.shields.io/badge/Connect_Signal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://tr.ee/mRqINI">
+    <img src="https://img.shields.io/badge/Linktree-Bio_Link-43E660?style=for-the-badge&logo=linktree&logoColor=black" />
+  </a>
+
   <a href="https://app.hackthebox.com/profile/CHYou2Sef">
-    <img src="https://img.shields.io/badge/HackTheBox-11191f?style=for-the-badge&logo=hackthebox&logoColor=white">
+    <img src="https://img.shields.io/badge/HackTheBox-Agent-11191f?style=for-the-badge&logo=hackthebox&logoColor=white">
   </a>
+  
+  <br><br>
+  <img src="https://img.shields.io/badge/Signal_+216_27_363_604-00F7FF?style=flat-square&logo=whatsapp&logoColor=black" />
+
 </div>
