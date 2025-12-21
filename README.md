@@ -127,19 +127,21 @@ My mission involves architecting scalable web solutions and hardening systems ag
 </div>
 
 <br>
-<details>
-  <summary><b>🏆 BONUS: Click to Reveal Trophies & Certs</b></summary>
+
+  <summary> <b>🏆Trophies & Certs</b></summary>
   <div align="center">
     <br>
     <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco-PCAP%20Python-1BA0D7?style=flat-square&logo=cisco" />
     <img src="https://img.shields.io/badge/HiveMQ-MQTT%20Associate-E31E24?style=flat-square&logo=hivemq" />
-    <br><br>
+    <br>
+    <div>[![HackTheBox](http://www.hackthebox.eu/badge/image/HTB-E3CB2F4212)](https://www.hackthebox.eu/home/users/profile/HTB-E3CB2F4212)</div>
+    <br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=CHYou2Sef&theme=darkhub&column=7&no-frame=true&no-bg=true">
     </a>
   </div>
-</details>
+
 <br/>
 
 <br/>
