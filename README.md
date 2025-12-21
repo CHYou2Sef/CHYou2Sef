@@ -39,7 +39,7 @@
   <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="50">
 </div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=MISSION%20BRIEFING&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Pilot%20Bio&descAlign=50&descSize=15)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=MISSION%20BRIEFING&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Pilot%20Bio&descAlign=50&descSize=15" />
 
 <img align="right" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120">
 
@@ -53,7 +53,7 @@ My mission involves architecting scalable web solutions and hardening systems ag
 <br clear="right"/>
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=THE%20ARSENAL&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Tech%20Stack&descAlign=50&descSize=15)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=THE%20ARSENAL&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Tech%20Stack&descAlign=50&descSize=15" />
 
 <div align="center">
   <p><i>(Drag to rotate the constellation)</i></p>
@@ -114,7 +114,7 @@ My mission involves architecting scalable web solutions and hardening systems ag
   <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="50">
 </div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=FLIGHT%20TELEMETRY&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Data%20Logs&descAlign=50&descSize=15)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=FLIGHT%20TELEMETRY&fontSize=30&fontAlign=50&fontColor=ffffff&desc=Data%20Logs&descAlign=50&descSize=15" />
 
 <div align="center">
   <p>
@@ -135,7 +135,7 @@ My mission involves architecting scalable web solutions and hardening systems ag
     <img src="https://img.shields.io/badge/Cisco-PCAP%20Python-1BA0D7?style=flat-square&logo=cisco" />
     <img src="https://img.shields.io/badge/HiveMQ-MQTT%20Associate-E31E24?style=flat-square&logo=hivemq" />
     <br>
-    <div>[![HackTheBox](http://www.hackthebox.eu/badge/image/HTB-E3CB2F4212)](https://www.hackthebox.eu/home/users/profile/HTB-E3CB2F4212)</div>
+    <div><img src="http://www.hackthebox.eu/badge/image/HTB-E3CB2F4212)](https://www.hackthebox.eu/home/users/profile/HTB-E3CB2F4212"/></div>
     <br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=CHYou2Sef&theme=darkhub&column=7&no-frame=true&no-bg=true">
