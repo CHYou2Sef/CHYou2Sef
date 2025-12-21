@@ -1,122 +1,140 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Space Banner" />
-  
-  <br />
+<h1 align="center">
+  <b>Hi, I'm Youssef CHEBL </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-  <a href="https://github.com/CHYou2Sef">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=CHYou2Sef.CHYou2Sef&style=flat-square&left_color=000000&right_color=00F7FF&left_text=SYSTEM_ACCESS_LOG&right_text_color=000000" alt="visitor badge"/>
-  </a>
-
-  <br /> <br />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Identity:+YOUSSEF+CHEBL;Class:+Software+Engineer+%7C+Full+Stack;Specialization:+AI+%2B+Cyber-Security;Status:+Architecting+the+Future." alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="40px">
-  <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="40px">
-  <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="40px">
-  <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="40px">
-  <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="40px">
-  <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="40px">
-  <img src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="40px">
-</div>
-
-<br />
-
-<div align="center">
-  <h3>🛰️ MISSION BRIEFING</h3>
-  <p>
-    > Pilot: <b>Youssef CHEBL</b> <br>
-    > Base: Tunisia [Sector: ENICarthage] <br>
-    > Objective: <b>Engineering Scalable AI & Secure IoT Systems</b>
-  </p>
-  <p>
-    I am a dual-competence engineer bridging the gap between <b>Hardware</b> and <b>Software</b>. 
-    I build systems that see (Computer Vision), think (AI), and communicate securely (IoT/Network Security).
-  </p>
-  <p>
-    <i>"Achieved <b>90% accuracy</b> in Industrial AI models & optimized APIs for <b>500+ daily requests</b>."</i>
-  </p>
-</div>
-
-<br />
-
-<h3 align="center">🏙️ CODE INFRASTRUCTURE</h3>
-<div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/CHYou2Sef?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=30&theme=tokyonight&widget_size=large&dark=true" alt="3D Contributions" />
-</div>
-
-<br />
-
-<h3 align="center">🪐 TECH CONSTELLATION</h3>
-<div align="center">
-  <p><i>(Interactive: Drag to rotate the system)</i></p>
-  <a href="https://github.com/CHYou2Sef">
-    <img src="https://github-readme-3d-profile.vercel.app/api?username=CHYou2Sef&header-bg=0d1117&bg-color=0d1117&fg-color=00f7ff&header-color=00f7ff&hide-border=true&box-shadow=0&animate=true&honor-rank=true&skills=python,java,cpp,react,nodejs,docker,aws,linux,kali,mysql,pytorch,arduino,raspberrypi,dart,flutter" alt="3D Skills" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=computervision&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
-</div>
-
-<br />
-
-<h3 align="center">📊 FLIGHT TELEMETRY</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHYou2Sef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHYou2Sef&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+%7C+AI+Developer;Ethical+Hacker+%26+IoT+Architect;Building+Secure+Constellations...;90%25+Accuracy+AI+Models+Deployed.">
+  </a>
 </p>
 
-<h3 align="center">🚀 DEPLOYED MODULES</h3>
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <b>👁️ Industrial AI Vision</b><br>
-      <img src="https://img.shields.io/badge/90%25-Accuracy-green?style=flat-square"><br>
-      Reduced manual inspection by 15h/week using YOLOv8.
-    </td>
-    <td width="33%" align="center">
-      <b>📡 IoT Sentinel</b><br>
-      <img src="https://img.shields.io/badge/99.9%25-Uptime-blue?style=flat-square"><br>
-      Real-time env-monitor with C++ and Cloud MQTT.
-    </td>
-    <td width="33%" align="center">
-      <b>🚅 Ticket Grid</b><br>
-      <img src="https://img.shields.io/badge/10k+-Records-orange?style=flat-square"><br>
-      JavaFX/MySQL platform with optimized SQL queries.
-    </td>
-  </tr>
-</table>
-
-<br />
-<hr />
-
 <div align="center">
-  <p>End_Transmission_ //</p>
-  
-  <a href="https://linkedin.com/in/youssef-chebl-in" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <a href="#">
+          <img src="https://flagcdn.com/w80/us.png" width="40" alt="English">
+        </a><br>
+        <b>EN-US</b>
+      </td>
+      <td align="center" width="100">
+        <a href="#">
+          <img src="https://flagcdn.com/w80/fr.png" width="40" alt="Français">
+        </a><br>
+        <b>FR-FRA</b>
+      </td>
+      <td align="center" width="100">
+        <a href="#">
+          <img src="https://flagcdn.com/w80/tn.png" width="40" alt="Arabic">
+        </a><br>
+        <b>AR-TN</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<img align="right" src="https://cdn3.emoji.gg/emojis/5576-orbit.gif" width="150">
+**👨‍💻 About Me**
+
+I'm **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICarthage** (Tunisia) 🇹🇳. 
+I bridge the gap between **Hardware** and **Software**, specializing in **Embedded AI**, **Ethical Hacking**, and **Scalable Web Architectures**.
+
+* 🔭 I’m currently looking for a **Capstone Project (PFE)**.
+* 🧠 I achieved **90% accuracy** in Industrial AI Vision models.
+* ⚡ I optimized backend APIs to handle **500+ daily requests**.
+* 📫 Reach me at: **youssef.chebl@enicar.ucar.tn**
+
+<br clear="right"/>
+
+<h3>
+  <b>Connect Uplink</b>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50">
+</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/youssef-chebl-in">
+    <img src="https://img.shields.io/badge/-Youssef_Chebl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white">
   </a>
-  
   <a href="mailto:youssef.chebl@enicar.ucar.tn">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="50" />
+    <img src="https://img.shields.io/badge/-Email_Me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">
   </a>
-  
-  <a href="https://app.hackthebox.com/profile/CHYou2Sef" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackthebox.svg" alt="HackTheBox" height="40" width="50" />
+  <a href="https://app.hackthebox.com/profile/CHYou2Sef">
+    <img src="https://img.shields.io/badge/-HackTheBox-11191f?style=flat&labelColor=11191f&logo=hackthebox&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://komarev.com/ghpvc/?username=CHYou2Sef&color=00F7FF" alt="Visitors">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  <b> Combat Arsenal</b>
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+<h3>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <b> Flight Telemetry </b>
+</h3>
+
+<img align="right" width="150" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=CHYou2Sef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHYou2Sef&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHYou2Sef&theme=tokyonight&hide_border=true" width="100%">
+
+<br>
+
+<h3>🚀 Deployed Constellations</h3>
+<div align="center">
+  <a href="https://github.com/CHYou2Sef/YOUR-IOT-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHYou2Sef&repo=CHYou2Sef&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/CHYou2Sef/YOUR-AI-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CHYou2Sef&repo=CHYou2Sef&theme=tokyonight&hide_border=true" />
   </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<details>
+  <summary>
+    <b>🔻 Click to Expand Classified Data (Trophies & Extras)</b>
+  </summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=CHYou2Sef&theme=darkhub&column=7&no-frame=true&no-bg=true">
+    </a>
+    <br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHYou2Sef&theme=tokyonight&hide_border=true">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHYou2Sef&theme=tokyonight&hide_border=true">
+  </div>
+</details>
+
+<br>
+
+<p align="center">
+  <i>"Explaining the Cosmos through Code."</i><br>
+  Last Sync: 2025 | Pilot: Youssef Chebl
+</p>
