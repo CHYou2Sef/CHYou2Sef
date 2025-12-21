@@ -10,13 +10,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=System+Online:+Software+Engineer+%7C+AI+Architect;Mission:+Securing+IoT+Constellations;Deploying+90%25+Accuracy+Vision+Models;Status:+Ready+for+Capstone+(PFE)." alt="Typing SVG" />
   </a>
 
-  <br /> 
+  <br/> 
 
   <p>
-    <img src="https://img.shields.io/badge/Age-24-00F7FF?style=flat-square&logo=uikit&logoColor=black" alt="Age" />
-    
+    <img src="https://img.shields.io/badge/Age-25-00F7FF?style=flat-square&logo=uikit&logoColor=black" alt="Age" />
     <img src="https://komarev.com/ghpvc/?username=CHYou2Sef&color=00F7FF&style=flat-square&label=VISITOR_LOG" alt="Visitors" />
-    
     <a href="https://github.com/CHYou2Sef">
       <img src="https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=github" />
     </a>
@@ -120,7 +118,7 @@ I am **Youssef CHEBL**, a Dual-Competence **Computer Engineer** from **ENICartha
 
 <br>
 <details>
-  <summary><b>🏆 BONUS: Click to Reveal Trophies & Live Map</b></summary>
+  <summary><b>Click to Reveal Trophies & Live Map</b></summary>
   <div align="center">
     <br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
