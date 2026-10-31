@@ -1,338 +1,251 @@
- <div align="center">
+<!--
+  GitHub Profile README — CHYou2Sef
+  Dynamic widgets use public third-party services.
+  Private contribution data is not included unless separately authorized.
+-->
 
-  <img src="https://i.pinimg.com/originals/34/08/9b/34089b6c08665ba186358c8942006709.gif" width="100%" alt="Engineering Banner">
+<div align="center">
 
-  <br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:087E8B,100:00D9FF&height=220&section=header&text=YOUSSEF%20CHEBL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Data%20%7C%20AI%20%7C%20Software&descAlignY=60&descSize=16&animation=fadeIn" />
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" alt="Divider">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineer;Data+Engineering+%26+Business+Intelligence;Applied+AI+%26+Computer+Vision;Software+%26+IoT+Development;Open+to+Remote+%7C+Hybrid+%7C+On-site+Opportunities" alt="Typing introduction" />
+</a>
 
-  # Youssef CHEBL 👋
+<br/>
 
-  ### Computer Science Engineer | Data Engineering | Business Intelligence | Applied AI
+<a href="https://linkedin.com/in/youssef-chebl-in">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:youssef.chebl@enicar.ucar.tn">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/CHYou2Sef">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://app.hackthebox.com/profile/CHYou2Sef">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</a>
 
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer+%F0%9F%8E%93;Building+Data-Driven+Solutions;Business+Intelligence+%7C+Data+Engineering;Software+Engineering+%7C+Applied+AI;Turning+Complex+Problems+Into+Solutions" alt="Typing SVG">
-  </a>
+<br/><br/>
 
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=CHYou2Sef&color=00F7FF&style=flat-square&label=PROFILE+VISITORS" alt="Profile views">
-  <img src="https://img.shields.io/badge/Location-Tunisia-00F7FF?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/Graduation-2026-success?style=flat-square" alt="Graduation">
-
-  <br>
-
-  <a href="https://linkedin.com/in/youssef-chebl-in">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:youssef.chebl@enicar.ucar.tn">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/CHYou2Sef">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<img src="https://komarev.com/ghpvc/?username=CHYou2Sef&style=for-the-badge&color=087E8B&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/CHYou2Sef?style=for-the-badge&color=087E8B&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/CHYou2Sef?style=for-the-badge&color=087E8B&label=TOTAL+STARS" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=WHO%20AM%20I%3F&fontSize=30&fontColor=ffffff&fontAlign=50" width="100%">
+## 💼 Open to New Opportunities
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer animation">
+I'm a **Computer Science Engineer graduated from ENICarthage, Tunisia**, currently looking for my next professional opportunity.
 
-## 👨‍💻 About Me
-
-I'm **Youssef CHEBL**, a Computer Science Engineer graduated from the **National Engineering School of Carthage (ENICarthage), Tunisia**, with an engineering background spanning software development, data systems, and intelligent technologies.
-
-My engineering interests lie at the intersection of **Data Engineering, Business Intelligence, Software Engineering, and Applied Artificial Intelligence**.
-
-I enjoy designing systems that transform raw data into actionable insights, automating complex workflows, and developing reliable software solutions that address real-world business challenges.
-
-### 🎓 Academic & Professional Journey
-
-- 🎓 Computer Science Engineering Degree — ENICarthage (2023–2026).
-- 🎓 Previous academic background at ISET Nabeul.
-- 🏢 Final-Year Engineering Project — TRICOM Tunisie.
-- 📊 Designed an end-to-end Business Intelligence solution focused on B2B database growth, enrichment, and management.
-- 🚀 Continuously exploring modern data ecosystems, AI technologies, cloud computing, and automation.
-
-<br clear="right"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=ENGINEERING%20DOMAINS&fontSize=28&fontColor=ffffff" width="100%">
-
-## 🧠 What I Work On
+I'm interested in joining a team where I can build useful products, develop data-driven solutions, and contribute to real-world engineering challenges.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📊 Data Engineering & BI
+**🌍 Work arrangements**
 
-- Data integration and transformation
-- ETL / ELT concepts
-- Business Intelligence architecture
-- Data enrichment and quality
-- Database management
-- Analytics and reporting
+- Remote
+- Hybrid
+- On-site
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 Artificial Intelligence
+**🎯 Roles of interest**
 
-- Machine Learning
-- Computer Vision
-- Deep Learning
-- YOLO-based detection
-- Accelerated Data Science
-- Generative AI fundamentals
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-- Python and Java development
-- C / C++ programming
-- Backend development
-- REST API concepts
-- Application architecture
-- Database-driven applications
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Infrastructure & Automation
-
-- AWS Cloud Foundations
-- Docker and Linux
-- IoT and MQTT communication
-- Workflow automation with n8n
-- Networking fundamentals
-- Cybersecurity fundamentals
+- Data Engineer
+- BI Developer / Analyst
+- Software Engineer
+- Python Developer
+- AI / Computer Vision Engineer
+- IoT Developer
 
 </td>
 </tr>
 </table>
 
+**Location:** Tunisia · Open to international opportunities
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=TECHNOLOGY%20STACK&fontSize=28&fontColor=ffffff" width="100%">
+## 👨‍💻 About Me
 
-## 🛠️ Technologies & Tools
+My background combines software engineering, data-oriented solutions, applied AI, and connected systems.
+
+I enjoy working across the development lifecycle: understanding a problem, designing a solution, implementing it, and improving it through testing and iteration.
+
+**Areas I work with:**
+
+- 📊 **Data Engineering & Business Intelligence** — data organization, data processing, analytics, and BI solutions.
+- 🤖 **Applied AI & Computer Vision** — machine learning, object detection, and intelligent vision systems.
+- 💻 **Software Engineering** — application development, backend technologies, and database systems.
+- 🌐 **IoT & Connected Systems** — embedded development, MQTT communication, and cloud-connected devices.
+- 🔐 **Cybersecurity** — networking, security fundamentals, and hands-on lab practice.
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Business Intelligence Solution — TRICOM Tunisie
+
+**Graduation Project · Business Intelligence · B2B Data Management**
+
+Implemented a Business Intelligence solution related to the growth, enrichment, and management of a B2B database.
+
+- Worked on an end-to-end BI solution in an enterprise environment.
+- Focused on improving B2B data organization and management.
+- Applied data-oriented engineering practices to support business decision-making.
+
+### 🤖 Industrial AI Vision
+
+**YOLOv8 · Computer Vision · Raspberry Pi 5**
+
+An AI-powered vision solution designed for industrial monitoring and object detection.
+
+- Integrated computer vision into an edge-computing environment.
+- Used YOLOv8 for object detection.
+- Reported project results included approximately **90% mAP** and an estimated **15 hours per week** in time savings.
+
+### 🌐 IoT Sentinel
+
+**C++ · MQTT · Cloud · IoT**
+
+An IoT monitoring solution designed to collect and communicate device data.
+
+- Implemented MQTT-based communication.
+- Focused on reliable data transmission and device monitoring.
+- Project specifications/results included **1 data point per second**, **99.9% uptime**, and **sub-second latency**.
+
+### 🎫 Ticket Reservation System
+
+**Java · JavaFX · MySQL**
+
+A desktop ticket reservation application with database integration.
+
+- Developed an interactive JavaFX application.
+- Integrated MySQL for persistent data management.
+- Project results included support for **10,000+ records** and a **15% improvement** in retrieval performance.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,dart&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql&perline=6" />
 </p>
 
-### Data, AI & Machine Learning
+### Web & Software Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,mysql,postgres,mongodb&theme=dark" />
-<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-00FFFF?style=for-the-badge&logo=opencv&logoColor=black">
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap&perline=6" />
 </p>
 
-### Web & Application Development
+### Data, AI & Computer Vision
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,mysql,postgres&perline=6" />
 </p>
 
-### Cloud, DevOps & Infrastructure
+### Cloud, DevOps & Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,arduino,raspberrypi&theme=dark" />
-<img src="https://img.shields.io/badge/MQTT-IoT%20Messaging-660066?style=for-the-badge&logo=hivemq&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" />
 </p>
 
-### Automation & Productivity
+### IoT & Embedded Systems
 
-<p>
-<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/Agile-Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,linux&perline=6" />
 </p>
+
+**Additional technologies:** MQTT · HiveMQ · YOLOv8 · JavaFX · Kali Linux · Network Security
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=ffffff" width="100%">
-
-## 🚀 Selected Engineering Projects
-
-### 01. 📊 Business Intelligence — B2B Database Management
-
-<sup>FINAL YEAR ENGINEERING PROJECT · TRICOM TUNISIE · 2026</sup>
-
-**Objective:** Implement a Business Intelligence solution related to the growth, enrichment, and management of a B2B database.
-
-Key engineering areas:
-
-- B2B data management and enrichment.
-- Data integration and transformation.
-- Business Intelligence architecture.
-- Structuring data to support business analysis.
-- Transforming business requirements into data-driven solutions.
-
-**Focus:** Data Engineering · Business Intelligence · Enterprise Data Management
-
----
-
-### 02. 👁️ Industrial AI Vision System
-
-**Objective:** Develop an intelligent computer vision solution for automated industrial defect detection.
-
-Key highlights (based on project results):
-
-- Achieved approximately **90% mAP** in defect detection.
-- Reduced manual inspection workload by approximately **15 hours per week**.
-- Explored edge deployment using Raspberry Pi 5.
-
-**Technologies:** Python · YOLOv8 · OpenCV · Raspberry Pi 5
-
----
-
-### 03. 📡 IoT Sentinel — Intelligent Monitoring System
-
-**Objective:** Design an IoT monitoring architecture for collecting and processing real-time sensor data.
-
-Key highlights (based on project specifications):
-
-- Designed a continuous data-processing pipeline.
-- Targeted one data point per second.
-- Focused on low-latency communication and system availability.
-- Integrated MQTT-based messaging.
-
-**Technologies:** C++ · MQTT · IoT · Cloud Infrastructure
-
----
-
-### 04. 🚆 Ticket Reservation Management System
-
-**Objective:** Develop a desktop application for managing ticket reservations and structured records.
-
-Key highlights (based on project results):
-
-- Designed a Java desktop application.
-- Integrated relational database management.
-- Managed a dataset of more than 10,000 records.
-- Improved record retrieval efficiency.
-
-**Technologies:** Java · JavaFX · MySQL
-
----
-
-> More projects and technical experiments are available in my repositories.
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/CHYou2Sef?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black">
-</a>
+### Overall GitHub Performance
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=CHYou2Sef&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&show=contributions,all_time_contribs,reviews,prs_merged,prs_merged_percentage,prs_authored,prs_reviewed,issues_authored" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CHYou2Sef&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+
+### Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=CHYou2Sef&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+### Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CHYou2Sef&bg_color=1a1b27&color=70a5fd&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=CERTIFICATIONS%20%26%20LEARNING&fontSize=27&fontColor=ffffff" width="100%">
-
-## 🏅 Certifications & Professional Development
-
-| Certification | Organization | Year |
-|---|---|---|
-| AI Essentials | FreeAcademy | 2026 |
-| ISC2 Candidate | ISC2 | 2026 |
-| Fundamentals of Accelerated Data Science | NVIDIA DLI | 2025 |
-| Enhancing Data Science Outcomes With Efficient Workflow | NVIDIA DLI | 2025 |
-| Generative AI with Diffusion Models | NVIDIA DLI | 2025 |
-| AWS Academy Graduate – Cloud Foundations | AWS Academy | 2025 |
-| HiveMQ Certified MQTT Associate | HiveMQ | 2025 |
-| Scrum Fundamentals Certified | VMEdu | 2025 |
-| PCAP: Programming Essentials in Python | Cisco | 2021 |
-| Technical Support Fundamentals | Google | 2022 |
+## 🐍 Contribution Snake
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHYou2Sef/CHYou2Sef/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHYou2Sef/CHYou2Sef/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/CHYou2Sef/CHYou2Sef/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎓 Certifications & Professional Development
+
+- AWS Academy Cloud Foundations
+- HiveMQ Certified MQTT Associate
+- Cisco Programming Essentials in Python (PCAP)
+- NVIDIA Deep Learning Institute — Data Science and Generative AI coursework
+- AI Essentials — FreeAcademy
+- Scrum Fundamentals
+- Google Technical Support Fundamentals
+- ISC2 Candidate
+
+---
+
+## 🔐 Cybersecurity
+
+I'm also interested in cybersecurity, networking, and practical security learning.
 
 <a href="https://app.hackthebox.com/profile/CHYou2Sef">
-<img src="https://www.hackthebox.eu/badge/image/HTB-E3CB2F4212" alt="Hack The Box Profile">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-View%20My%20Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
-
-</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=GITHUB%20ACTIVITY&fontSize=28&fontColor=ffffff" width="100%">
+## 🤝 Let's Connect
 
-## 📈 Development Statistics
+I'm open to conversations with recruiters, engineering teams, and professionals working in data, AI, software, and IoT.
+
+If you have an opportunity that matches my profile, I'd be glad to connect.
+
+<p align="center">
+  <a href="https://linkedin.com/in/youssef-chebl-in">
+    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20CHEBL-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:youssef.chebl@enicar.ucar.tn">
+    <img src="https://img.shields.io/badge/Email-youssef.chebl-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CHYou2Sef&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
+### ✨ Building practical solutions. Learning continuously. Ready for the next challenge.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHYou2Sef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages">
-
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=CHYou2Sef&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-
-<br>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHYou2Sef&theme=tokyonight" alt="GitHub profile summary">
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=header&text=BEYOND%20THE%20CODE&fontSize=28&fontColor=ffffff" width="100%">
-
-## 🌱 Current Interests
-
-- Building robust and scalable data pipelines.
-- Exploring modern Business Intelligence ecosystems.
-- Applying AI and machine learning to practical problems.
-- Automating business processes and workflows.
-- Expanding cloud and infrastructure engineering knowledge.
-- Developing software that delivers measurable business value.
-
-## 🌍 Languages
-
-- 🇹🇳 Arabic — Native
-- 🇫🇷 French
-- 🇬🇧 English
-
----
-
-## 📡 Let's Connect
-
-I'm interested in connecting with engineers, data professionals, technology enthusiasts, and organizations working on meaningful technical challenges.
-
-<div align="center">
-
-<a href="mailto:youssef.chebl@enicar.ucar.tn">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/youssef-chebl-in">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/CHYou2Sef">
-<img src="https://img.shields.io/badge/GitHub-My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://tr.ee/mRqINI">
-<img src="https://img.shields.io/badge/Linktree-Explore%20More-43E660?style=for-the-badge&logo=linktree&logoColor=black">
-</a>
-
-<br><br>
-
-**"Turning data into insights, ideas into systems, and challenges into engineering solutions."**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:087E8B,100:07111F&height=120&section=footer" />
 
 </div>
