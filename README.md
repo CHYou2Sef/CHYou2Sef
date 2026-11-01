@@ -1,251 +1,122 @@
-<!--
-  GitHub Profile README — CHYou2Sef
-  Dynamic widgets use public third-party services.
-  Private contribution data is not included unless separately authorized.
--->
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:087E8B,100:00C2FF&height=210&section=header&text=YOUSSEF%20CHEBL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Data%20%7C%20AI%20%7C%20Software&descAlignY=60&descSize=16&animation=fadeIn" alt="Youssef Chebl profile banner" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Python+%26+Data+Engineering;Applied+AI+%26+Computer+Vision;Building+data-driven+and+reliable+software;Open+to+Remote%2C+Hybrid+%26+On-site+Roles" alt="Animated introduction" /><a href="https://linkedin.com/in/youssef-chebl-in"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:youssef.chebl@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/CHYou2Sef"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://app.hackthebox.com/profile/CHYou2Sef"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=CHYou2Sef&style=for-the-badge&color=087E8B&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/CHYou2Sef?style=for-the-badge&color=087E8B&label=FOLLOWERS" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/CHYou2Sef?style=for-the-badge&color=087E8B&label=TOTAL+STARS" alt="GitHub stars" /></div>💼 Open to Full-time Opportunities
+I'm a Computer Science Engineer graduated from ENICarthage, Tunisia, and I'm currently looking for a full-time role where I can contribute to data-driven products, applied AI systems, or reliable software solutions.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:087E8B,100:00D9FF&height=220&section=header&text=YOUSSEF%20CHEBL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Data%20%7C%20AI%20%7C%20Software&descAlignY=60&descSize=16&animation=fadeIn" />
+Work arrangements: Remote · Hybrid · On-site
+Location: Nabeul, Tunisia
+Roles of interest: Python Engineer · Data Engineer · AI / Computer Vision Engineer · BI Developer · Software Engineer
+👨‍💻 About Me
+My background combines Python and data engineering, business intelligence, applied AI, computer vision, full-stack development, and embedded / IoT systems.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineer;Data+Engineering+%26+Business+Intelligence;Applied+AI+%26+Computer+Vision;Software+%26+IoT+Development;Open+to+Remote+%7C+Hybrid+%7C+On-site+Opportunities" alt="Typing introduction" />
-</a>
+During my experience at TRICOM Tunisie, I developed a Python-based B2B data-enrichment pipeline and ETL workflows using SQL Server and SSIS, with Power BI dashboards for pipeline and data-quality monitoring. My other experience includes training and optimizing YOLO-based defect-detection models for edge deployment, building MERN applications, and automating BIM workflows with Python.
 
-<br/>
+I enjoy translating practical requirements into maintainable systems, measuring their impact, and documenting the engineering decisions behind them.
+⚡ Selected Results
+Area	Result
+B2B data enrichment	Pipeline supporting identification of 1.6M+ prospects per month
+Industrial computer vision	30,000+ images curated and annotated; 90% mAP
+Edge AI optimization	20% lower inference latency with ONNX Runtime on Raspberry Pi 5
+Full-stack development	40% lower API response time
+BIM automation	10 hours/week saved per engineer
+POS application UX	30% fewer clicks per transaction
 
-<a href="https://linkedin.com/in/youssef-chebl-in">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:youssef.chebl@enicar.ucar.tn">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/CHYou2Sef">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://app.hackthebox.com/profile/CHYou2Sef">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-</a>
 
-<br/><br/>
+🚀 Professional Experience & Selected Work
+1. AI Tricom Hunter — B2B Data Enrichment & BI
+TRICOM Tunisie · AI & Data Engineering Intern · Mar 2026 – Sep 2026
+- Developed a Python pipeline to extract, validate, and structure B2B data from web and institutional sources.
+- Built ETL workflows in SQL Server / SSIS, using staging tables and batch MERGE operations for high-volume ingestion.
+- Supported the identification of 1.6M+ high-value prospects per month.
+- Created Power BI dashboards and data-quality indicators to monitor pipeline health, dataset enrichment, and prospecting KPIs.
+Technologies: Python · SQL Server · SSIS · ETL · Power BI
+2. Industrial Quality Inspection — Computer Vision & Edge AI
+KWM Manufacturing · Computer Vision & AI Intern · Jul 2024 – Sep 2024
+- Curated and annotated a dataset of 30,000+ images for critical manufacturing-defect detection.
+- Fine-tuned YOLO object-detection models, achieving 90% mAP on the targeted defects.
+- Optimized edge inference with ONNX Runtime, reducing latency by 20% on Raspberry Pi 5.
+Technologies: Python · YOLO · OpenCV · ONNX Runtime · Raspberry Pi 5
+3. Full-Stack MERN Application
+SOFIRUX · Full-Stack MERN Developer Intern · Aug 2024
+- Built a modular React single-page application with 15+ reusable UI components.
+- Optimized Node.js / Express / MongoDB APIs, reducing server response time by 40%.
+- Implemented JWT authentication and role-based access control (RBAC).
+Technologies: React · Node.js · Express · MongoDB · REST APIs · JWT · RBAC
+4. BIM Workflow Automation & Mobile Application
+DigiArt LivingLab · Python & Mobile Developer Intern · Feb 2023 – Jun 2023
+- Automated BIM workflows using Python scripting with PyRevit, saving an estimated 10 hours per week per engineer.
+- Developed a cross-platform Flutter application for centralized plugin management.
+Technologies: Python · PyRevit · BIM · Flutter
+5. POS Billing Module Maintenance
+LAB619 · Java Developer Intern · Jan 2022 – Feb 2022
+- Fixed and enhanced the billing module of a point-of-sale application.
+- Redesigned the Java Swing interface, reducing clicks per transaction by 30%.
+Technologies: Java · Java Swing · POS
+🎓 Academic Projects
+Project	Stack	Summary
+CityGuard — Smart City	Java · Spring Boot · Docker	Microservices platform for urban management; project targets/results included 99.9% availability and latency below 1 second.
+PFEXHunter	React · FastAPI · PostgreSQL	Student–company matching platform with dynamic multi-criteria filtering and responsive UI.
+CarRental Platform	MERN	Car-rental management platform with multi-criteria search and secure authentication.
+IoT Monitoring System	C++ · ESP8266 · MQTT	Real-time telemetry transmission to a cloud dashboard; reported latency below 50 ms.
+Inventory Management	C · Algorithms	Console application for inventory tracking with CRUD operations and file persistence.
 
-<img src="https://komarev.com/ghpvc/?username=CHYou2Sef&style=for-the-badge&color=087E8B&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/CHYou2Sef?style=for-the-badge&color=087E8B&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/CHYou2Sef?style=for-the-badge&color=087E8B&label=TOTAL+STARS" />
 
-</div>
-
----
-
-## 💼 Open to New Opportunities
-
-I'm a **Computer Science Engineer graduated from ENICarthage, Tunisia**, currently looking for my next professional opportunity.
-
-I'm interested in joining a team where I can build useful products, develop data-driven solutions, and contribute to real-world engineering challenges.
-
-<table>
-<tr>
-<td width="50%">
-
-**🌍 Work arrangements**
-
-- Remote
-- Hybrid
-- On-site
-
-</td>
-<td width="50%">
-
-**🎯 Roles of interest**
-
-- Data Engineer
-- BI Developer / Analyst
-- Software Engineer
-- Python Developer
-- AI / Computer Vision Engineer
-- IoT Developer
-
-</td>
-</tr>
-</table>
-
-**Location:** Tunisia · Open to international opportunities
-
----
-
-## 👨‍💻 About Me
-
-My background combines software engineering, data-oriented solutions, applied AI, and connected systems.
-
-I enjoy working across the development lifecycle: understanding a problem, designing a solution, implementing it, and improving it through testing and iteration.
-
-**Areas I work with:**
-
-- 📊 **Data Engineering & Business Intelligence** — data organization, data processing, analytics, and BI solutions.
-- 🤖 **Applied AI & Computer Vision** — machine learning, object detection, and intelligent vision systems.
-- 💻 **Software Engineering** — application development, backend technologies, and database systems.
-- 🌐 **IoT & Connected Systems** — embedded development, MQTT communication, and cloud-connected devices.
-- 🔐 **Cybersecurity** — networking, security fundamentals, and hands-on lab practice.
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Business Intelligence Solution — TRICOM Tunisie
-
-**Graduation Project · Business Intelligence · B2B Data Management**
-
-Implemented a Business Intelligence solution related to the growth, enrichment, and management of a B2B database.
-
-- Worked on an end-to-end BI solution in an enterprise environment.
-- Focused on improving B2B data organization and management.
-- Applied data-oriented engineering practices to support business decision-making.
-
-### 🤖 Industrial AI Vision
-
-**YOLOv8 · Computer Vision · Raspberry Pi 5**
-
-An AI-powered vision solution designed for industrial monitoring and object detection.
-
-- Integrated computer vision into an edge-computing environment.
-- Used YOLOv8 for object detection.
-- Reported project results included approximately **90% mAP** and an estimated **15 hours per week** in time savings.
-
-### 🌐 IoT Sentinel
-
-**C++ · MQTT · Cloud · IoT**
-
-An IoT monitoring solution designed to collect and communicate device data.
-
-- Implemented MQTT-based communication.
-- Focused on reliable data transmission and device monitoring.
-- Project specifications/results included **1 data point per second**, **99.9% uptime**, and **sub-second latency**.
-
-### 🎫 Ticket Reservation System
-
-**Java · JavaFX · MySQL**
-
-A desktop ticket reservation application with database integration.
-
-- Developed an interactive JavaFX application.
-- Integrated MySQL for persistent data management.
-- Project results included support for **10,000+ records** and a **15% improvement** in retrieval performance.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-
+🧰 Tech Stack
+Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql&perline=6" />
-</p>
-
-### Web & Software Development
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=5" alt="Python, Java, C++, JavaScript and TypeScript" />
+</p>Web & Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap&perline=6" />
-</p>
-
-### Data, AI & Computer Vision
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,flutter,spring&perline=6" alt="React, Node.js, Express, Angular, Flutter and Spring Boot" />
+</p>Data, AI & Computer Vision
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,mysql,postgres&perline=6" />
-</p>
-
-### Cloud, DevOps & Development Tools
-
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,mysql,postgres,mongodb,firebase&perline=6" alt="PyTorch, OpenCV and database technologies" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SSIS-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="SSIS" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge" alt="Roboflow" />
+</p>Databases, Cloud, DevOps & IoT
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" />
-</p>
-
-### IoT & Embedded Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,linux&perline=6" />
-</p>
-
-**Additional technologies:** MQTT · HiveMQ · YOLOv8 · JavaFX · Kali Linux · Network Security
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### Overall GitHub Performance
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=CHYou2Sef&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&show=contributions,all_time_contribs,reviews,prs_merged,prs_merged_percentage,prs_authored,prs_reviewed,issues_authored" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CHYou2Sef&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-
-### Contribution Streak
-
-<img width="70%" src="https://streak-stats.demolab.com?user=CHYou2Sef&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-### Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CHYou2Sef&bg_color=1a1b27&color=70a5fd&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,arduino,raspberrypi&perline=7" alt="AWS, Docker, Git, GitHub, Linux, Arduino and Raspberry Pi" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" alt="MQTT" />
+  <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-333333?style=for-the-badge" alt="ESP32 and ESP8266" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>Also used: SeleniumBase · Microsoft Excel · REST APIs · Microservices · Ubuntu · Kali Linux
+📊 GitHub Statistics
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=CHYou2Sef&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub profile statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHYou2Sef&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" /><img width="70%" src="https://streak-stats.demolab.com?user=CHYou2Sef&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CHYou2Sef&bg_color=1a1b27&color=70a5fd&line=00c2ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" /><img width="100%" src="https://github-profile-trophy.vercel.app/?username=CHYou2Sef&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub profile trophies" /></div>🐍 Contribution Snake
+<div align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHYou2Sef/CHYou2Sef/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHYou2Sef/CHYou2Sef/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/CHYou2Sef/CHYou2Sef/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎓 Certifications & Professional Development
-
-- AWS Academy Cloud Foundations
-- HiveMQ Certified MQTT Associate
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/CHYou2Sef/CHYou2Sef/output/github-contribution-grid-snake.svg" />
+</picture></div>🎓 Education
+- ENICarthage — National Diploma in Computer Engineering, 2023–2026.
+- ISET Nabeul — Bachelor's Degree in Information Technology, Embedded Systems, 2021–2023.
+📜 Certifications & Recognition
+- Google Technical Support
+- AWS Cloud Foundations
+- Python I & II — DataCamp
+- MQTT
 - Cisco Programming Essentials in Python (PCAP)
-- NVIDIA Deep Learning Institute — Data Science and Generative AI coursework
-- AI Essentials — FreeAcademy
-- Scrum Fundamentals
-- Google Technical Support Fundamentals
-- ISC2 Candidate
-
----
-
-## 🔐 Cybersecurity
-
-I'm also interested in cybersecurity, networking, and practical security learning.
-
-<a href="https://app.hackthebox.com/profile/CHYou2Sef">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-View%20My%20Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-</a>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to conversations with recruiters, engineering teams, and professionals working in data, AI, software, and IoT.
-
-If you have an opportunity that matches my profile, I'd be glad to connect.
-
-<p align="center">
-  <a href="https://linkedin.com/in/youssef-chebl-in">
-    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20CHEBL-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:youssef.chebl@enicar.ucar.tn">
-    <img src="https://img.shields.io/badge/Email-youssef.chebl-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-
-### ✨ Building practical solutions. Learning continuously. Ready for the next challenge.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:087E8B,100:07111F&height=120&section=footer" />
-
-</div>
+- 3rd Place — Industry 4.0 Makeathon, Orange Digital Center
+🌍 Languages
+Arabic — Native · English — B2 · French — B2
+🤝 Let's Connect
+I'm interested in full-time opportunities in Data Engineering, Python Development, Applied AI / Computer Vision, BI, and Software Engineering. I'm open to remote, hybrid, and on-site roles.
+- Email: youssef.chebl@enicar.ucar.tn
+- LinkedIn: linkedin.com/in/youssef-chebl-in
+- GitHub: github.com/CHYou2Sef
+- Hack The Box: CHYou2Sef
+<div align="center">Building practical solutions. Learning continuously. Ready for the next engineering challenge.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:087E8B,100:07111F&height=110&section=footer" alt="Footer banner" /></div>
